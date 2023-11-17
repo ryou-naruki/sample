@@ -2,4 +2,4 @@
 これはサンプルです。
 
 ## sanpmle
-konnnitiha
+コンニチハ
